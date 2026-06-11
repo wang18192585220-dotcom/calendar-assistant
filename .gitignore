@@ -1,0 +1,29 @@
+# Secrets & API keys - NEVER commit these
+.env
+*.env
+google_token.json
+google_client_secret.json
+google_oauth_pending.json
+credentials.json
+client_secret*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+/tmp/
+*.log
+.vercel

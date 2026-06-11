@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+server.py
+OAuth*
+.env
+google_token.json
+.DS_Store
